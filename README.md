@@ -1,1 +1,1 @@
-# Codewars-Week-5
+# Codewars
