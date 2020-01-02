@@ -1,5 +1,5 @@
-7 kyu
-Breaking chocolate problem
+// 7 kyu
+// Breaking chocolate problem
 
 function breakChocolate(n,m) {
  if( n === 0 || m === 0){
